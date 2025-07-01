@@ -1,5 +1,6 @@
 # Music Streaming Platform Revenue Tracker
 ** Project Overview **
+
 The Music Streaming Platform Revenue Tracker is a Java-based application designed to help artists monitor and analyze their earnings from major music streaming platforms like Spotify, Amazon Music, and YouTube Music. The tool provides a structured breakdown of revenue based on streaming hours, categorizes artists into different tiers (Mainstream, Indie, Emerging), and includes a goal-setting feature to help artists track their career milestones.
 
 # Key Features:
@@ -31,6 +32,7 @@ Core Logic:
 - RevenueTracker (JavaFX GUI version)
 
 2. How Revenue is Calculated?
+   ![Revenue Calculation Table](https://i.imgur.com/JQZ1x0E.png)
 | **Platform**      | **Streaming Hours ≥ 200K**       | **50K ≤ Hours < 200K**      | **Hours < 50K**       |
 |-------------------|----------------------------------|-----------------------------|-----------------------|
 | **Spotify**       | ₹0.74/hr + ₹50K bonus            | ₹0.54/hr + ₹40K bonus       | ₹0.41/hr + ₹5K bonus  |

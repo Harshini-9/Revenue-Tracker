@@ -96,7 +96,9 @@ Artist: TaylorSwift
 Streaming Hours: 300000.0  
 Earnings: Rs 260000.0  
 
-Total Earnings: Rs 662600.0```
+Total Earnings: Rs 662600.0
+```
+
 
 # Conclusion
 This project provides artists with financial transparency and career planning tools, helping them optimize their earnings and set achievable milestones. Its modular OOP design makes it scalable for future improvements.

@@ -33,11 +33,11 @@ Core Logic:
 
 2. How Revenue is Calculated?
  ```
-| **Platform**      | **Streaming Hours ≥ 200K**       | **50K ≤ Hours < 200K**      | **Hours < 50K**       |
-|-------------------|----------------------------------|-----------------------------|-----------------------|
-| **Spotify**       | ₹0.74/hr + ₹50K bonus            | ₹0.54/hr + ₹40K bonus       | ₹0.41/hr + ₹5K bonus  |
-| **Amazon Music**  | ₹0.68/hr + ₹50K bonus            | ₹0.57/hr + ₹40K bonus       | ₹0.44/hr + ₹5K bonus  |
-| **YouTube Music** | ₹0.70/hr + ₹50K bonus            | ₹0.64/hr + ₹40K bonus       | ₹0.60/hr + ₹5K bonus  |
+| Platform      | Streaming Hours ≥ 200K       | 50K ≤ Hours < 200K      | Hours < 50K           |
+|---------------|------------------------------|-------------------------|-----------------------|
+| Spotify       | ₹0.74/hr + ₹50K bonus        | ₹0.54/hr + ₹40K bonus   | ₹0.41/hr + ₹5K bonus  |
+| Amazon Music  | ₹0.68/hr + ₹50K bonus        | ₹0.57/hr + ₹40K bonus   | ₹0.44/hr + ₹5K bonus  |
+| YouTube Music | ₹0.70/hr + ₹50K bonus        | ₹0.64/hr + ₹40K bonus   | ₹0.60/hr + ₹5K bonus  |
 ```
 
 # 2. Goal Setting Module

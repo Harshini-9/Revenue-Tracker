@@ -56,8 +56,7 @@ Core Logic:
 #  How to Run 
 1. Command Line (CLI) Version
    - Compile & Run:
-     ```javac RevenueTrackerClass.java
-java RevenueTrackerClass ```
+     ```javac RevenueTrackerClass.java ```
 
 Input:
 
